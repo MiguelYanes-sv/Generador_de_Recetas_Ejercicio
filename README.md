@@ -1,2 +1,4 @@
-# A4---Recetas
-Este es un ejercicio de JavaScript
+# Ejercicio Practico - Generador de Recetas.
+Este es un sitio web de inserción y listado de recetas de cocina.
+
+Codificación basada en el DOM.
